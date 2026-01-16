@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #f8f9fa, #e9ecef);
+  color: #343a40;
+}
+
+.text-gradient {
+  background: linear-gradient(45deg, #ff6b6b, #ff8e8e, #c9c9ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-pink {
+  background-color: #ffc0cb !important;
+}
+
+.max-width-lg {
+  max-width: 900px;
+}
+
+.z-index-1 {
+  z-index: 1;
+}
+
+.modal.show.d-block {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.scrollable-modal {
+  max-height: 70vh;
+  overflow-y: auto;
+}

@@ -65,7 +65,7 @@ export default function Home() {
               Selamat ulang tahun yaaa... Ngga kerasa udah 5 tahun bareng kamu. Dari awal kita kenal, aku udah ngerasa kamu itu orang yang spesial banget buat aku. Kamu selalu penuh warna dan kebahagiaan.
             </p>
             <p className="text-dark">
-              Selamat atas diangkatnya karyawan tetap. Aku tahu kamu udah berusaha keras buat ini, dan aku bangga banget sama kamu. Semoga di usia 25 tahun ini, kamu makin sukses, bahagia, dan sehat selalu. Aku janji bakal selalu ada buat kamu. Kalo aku lagi ngga ada berarti aku lagi ngoding ya hehe...
+              Semoga di usia 25 tahun ini, kamu makin sukses, bahagia, dan sehat selalu. Aku janji bakal selalu ada buat kamu. Kalo aku lagi ngga ada berarti aku lagi ngoding ya hehe...
             </p>
             <p className="text-dark fw-semibold">
               Terima kasih telah temenin aku dari 0 kayak pertamina (mulai dari 0 ya).
